@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohd Dilshad 👋
 
-<!--
-**Mohd-Dilshad/Mohd-Dilshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- SQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+### Loan Approval Prediction System
+- Built using Python and Scikit-learn.
+- Predicts loan approval using applicant information.
+- Uses Machine Learning classification.
+
+## 📚 Currently Learning
+- Machine Learning
+- Data Structures and Algorithms
+- Python for AI/ML
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mohd-dilshad23/
+- GitHub: https://github.com/Mohd-Dilshad
